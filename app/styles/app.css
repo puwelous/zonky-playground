@@ -1,0 +1,16 @@
+.navbar {
+   background-color:#41b2bd;
+}
+
+.navbar .icon {
+   color: #fff;
+}
+
+.cancel-icon {
+   margin-left: 5px;
+}
+
+.progress-container{
+   height: 2.25em;
+   padding-top: 10px;
+}

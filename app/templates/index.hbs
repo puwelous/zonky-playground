@@ -1,0 +1,96 @@
+<section class="section">
+    <h1 class="title">Average loan calculation</h1>
+      <h2 class="subtitle">
+        Press any <strong>rating</strong> button to calculate average loans amount for the demanded rating category. 
+      </h2>
+</section>
+
+<section class="section">
+  <div class="columns is-vcentered">
+   
+    <div class="column is-narrow">
+        <div class="field">
+          <label class="label">Rating</label>
+          {{#each model as |rating|}}
+              <a {{action (route-action 'loadLoansForRating' rating 0 actualSize)}}
+                class="button {{if rating.isSelected 'is-active'}}"
+                title="{{rating.id}}">
+                  <span>
+                    {{rating.name}}
+                  </span>
+              </a>
+          {{/each}}
+        </div>
+    </div>
+
+    <div class="column is-narrow">
+        <div class="field">
+          <label class="label">X-Size</label>
+        </div>
+        <div class="select">
+          <select onchange={{action (mut actualSize) value="target.value"}}>
+              {{#each sizes as |size|}}
+                <option value={{size}} selected={{eq size actualSize}}>{{size}}</option>
+              {{/each}}
+          </select>
+        </div>
+    </div>
+
+    {{#if loadAllDataTask.isRunning}}
+        <div class="column is-narrow">
+
+          <div class="field">
+            <label class="label">&nbsp;</label>
+          </div>
+          <button {{action (route-action 'cancelTask')}}
+            class="button is-danger">
+            Stop 
+            <span class="cancel-icon">
+              <i class="fa fa-spinner fa-pulse"></i>
+            </span>
+          </button>
+        </div>
+
+        <div class="column">
+          <div class="field">
+            <label class="label">{{actualProgress}}%</label>
+          </div>
+          
+          <div class="progress-container">
+            <progress 
+            class="progress is-primary" 
+            value="{{actualProgress}}" 
+            max="100"
+            title="Loaded: {{actualProgress}}%">
+              {{actualProgress}}%
+            </progress>
+          </div>
+        </div>
+    {{else}}
+        {{#if hasAllData}}
+          <div class="column">
+
+            <table class="table is-fullwidth" style="margin-bottom: 0px">
+              <thead>
+                <tr>
+                  <th>Loans count</th>
+                  <th>Total amount <small>(CZK)</small></th>
+                  <th>Average loan <small>(CZK)</small></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>{{total}}</td>
+                  <td>{{format-money sumOfLoanAmount format="%v"}}</td>
+                  <td>{{format-money averageLoanAmount format="%v"}}</td>
+                </tr>
+              </tbody>
+            </table>
+
+          </div>
+      {{/if}}
+    {{/if}}
+
+  </div>
+
+</section>

@@ -1,0 +1,40 @@
+<nav class="navbar is-transparent">
+   <div class="navbar-brand">
+      <a class="navbar-item" href="https://zonky.cz">
+      <img src="/assets/logo-nav.png" alt="Zonky: people lending people" width="118" height="29">
+      </a>
+      {{#link-to 'index' class="navbar-item"}}
+         Loans
+      {{/link-to}}
+   </div>
+   <div id="navMenuTransparentExample" class="navbar-menu">
+      <div class="navbar-end">
+         <a class="navbar-item is-hidden-desktop-only" href="https://github.com/zonkyio" target="_blank">
+         <span class="icon">
+            <i class="fa fa-github"></i>
+         </span>
+         </a>
+         <a class="navbar-item is-hidden-desktop-only" href="https://twitter.com/zonky_cz" target="_blank">
+         <span class="icon">
+            <i class="fa fa-twitter"></i>
+         </span>
+         </a>
+      </div>
+   </div>
+</nav>
+<section class="hero is-light">
+   <div class="hero-body">
+      <div class="container">
+         <h1 class="title">
+            Zonky
+         </h1>
+         <h2 class="subtitle">
+            Job application challenge
+         </h2>
+      </div>
+   </div>
+</section>
+
+<div class="container">
+   {{outlet}}
+</div>
