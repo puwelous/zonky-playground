@@ -1,0 +1,2992 @@
+const response = [
+   {
+      "id": 107902,
+      "url": "https://app.zonky.cz/loan/107902",
+      "name": "Krásný nový pokojíček pro děti",
+      "story": "Ráda bych splnila sobě i svému šestiletému synkovi sen o parádním novém pokojíčku, který už nebude pro mrňata, ale pro velké chlapáky. Mimo jiné v něm nutně potřebujeme vesmírnou raketu a taková paráda u truhláře již něco stojí. A aby maminka mohla trávit víc času jako kopilot rakety, ráda by si ještě pořídila nový počítač, který jí umožní větší kus práce zvládnout v raketě místo v kanceláři. Investujete do našeho nesmírného vesmírného projektu?",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/107902/photos/11631"
+         }
+      ],
+      "userId": 136880,
+      "nickName": "zonky136880",
+      "termInMonths": 66,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 50000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-10T18:45:42.355+02:00",
+      "published": true,
+      "deadline": "2017-07-12T18:36:29.515+02:00",
+      "investmentsCount": 61,
+      "questionsCount": 1,
+      "region": "6",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 107455,
+      "url": "https://app.zonky.cz/loan/107455",
+      "name": "na nový kotel",
+      "story": "Byla dlouhá zima.Můj starý kamarád kotel Dakon po 20 letech odešel do nebe zvaný Kovošrot. Opustil nás nečekaně, rychle a ještě v topné sezoně. Byl konec března a zima ještě neskončila, ale můj starý kamarád ano. Pomůžete mi prosím získat nového kamaráda do nepohody ? Děkuji. Jana",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/107455/photos/11630"
+         }
+      ],
+      "userId": 136411,
+      "nickName": "Jana64",
+      "termInMonths": 34,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 45000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-10T18:33:30.914+02:00",
+      "published": true,
+      "deadline": "2017-07-12T18:16:42.607+02:00",
+      "investmentsCount": 75,
+      "questionsCount": 0,
+      "region": "2",
+      "mainIncomeType": "PENSION"
+   },
+   {
+      "id": 106307,
+      "url": "https://app.zonky.cz/loan/106307",
+      "name": "Refinancování půjček",
+      "story": "Je to v podstatě velmi jednoduché.mám asi čtyři půjčky u bank a jeden revolvingový úvěr.Jsem teď v polovině všech splátek. Banky mi slibovaly,že pokud budu splácet včas dostane se mi nějakých úlev ,nebo se mi nějaké splátky vrátí. Každý rok volám a zjištuji proč jsem nedostal žádné úlevy anebo proč se mi nevrátily nějaké splátky ,když platím včas.Už nechci podstupovat každoroční vymlouvání bank,že to není pravda a kdesi cosi. Raději si nechám vše sloučit a platit budu lidem ,než bankám a hlavně s menším úrokem a možností doplatit půjčku kdykoli.Děkuji všem za pochopení.\n\nBylo mi napsáno abych to co jsem napsal vylepšil,že to pak bude rychlejší...ale nemám co bych chtěl vylepšit. Napsal jsem fakta a kdo mi bude chtít pomoci děkuji a kdo ne, tak třeba pomůže jiným.Myslím ,že vymýšlením si nepravd nikomu neprospěje.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "shutterstock_31252792.a96ee827.jpg",
+            "url": "/loans/106307/photos/11615"
+         }
+      ],
+      "userId": 135194,
+      "nickName": "zonky135194",
+      "termInMonths": 72,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 165000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-10T15:29:30.344+02:00",
+      "published": true,
+      "deadline": "2017-07-12T15:22:28.093+02:00",
+      "investmentsCount": 225,
+      "questionsCount": 3,
+      "region": "13",
+      "mainIncomeType": "LIBERAL_PROFESSION"
+   },
+   {
+      "id": 107728,
+      "url": "https://app.zonky.cz/loan/107728",
+      "name": "Půjčka",
+      "story": "Potřebuji si zaplatit krátkodobou půjčku pred výplatou a chtěla bych, aby mi peníze zbyly na dovolenou.",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/107728/photos/11590"
+         }
+      ],
+      "userId": 136693,
+      "nickName": "zonky136693",
+      "termInMonths": 47,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 20000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-10T10:55:46.516+02:00",
+      "published": true,
+      "deadline": "2017-07-12T10:52:07.623+02:00",
+      "investmentsCount": 44,
+      "questionsCount": 0,
+      "region": "4",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 106341,
+      "url": "https://app.zonky.cz/loan/106341",
+      "name": "Škoda octavia",
+      "story": "Peníze bych rad investoval do zakoupení nového osobního automobilu",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/106341/photos/11579"
+         }
+      ],
+      "userId": 135237,
+      "nickName": "zonky135237",
+      "termInMonths": 72,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 400000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-09T18:06:21.038+02:00",
+      "published": true,
+      "deadline": "2017-07-11T18:03:02.580+02:00",
+      "investmentsCount": 390,
+      "questionsCount": 1,
+      "region": "3",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 106015,
+      "url": "https://app.zonky.cz/loan/106015",
+      "name": "Refinancování půjček",
+      "story": "Předem všem děkuji za boj s vysokým úrokem u bankovního institutu a lepšími podmínkami s půjčkou od Vás od Zonky. Krásné léto :-)",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "shutterstock_227689387.b716626c.jpg",
+            "url": "/loans/106015/photos/11577"
+         }
+      ],
+      "userId": 134899,
+      "nickName": "zonky134899",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 70000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-09T15:09:36.116+02:00",
+      "published": true,
+      "deadline": "2017-07-11T15:07:42.242+02:00",
+      "investmentsCount": 80,
+      "questionsCount": 2,
+      "region": "3",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 105439,
+      "url": "https://app.zonky.cz/loan/105439",
+      "name": "Rodinní pomocník.",
+      "story": "Dobrý den rád bych si touhle cestou půjčil od vás lidí na naše nové auto které potřebují ke své každodenní práci a k rodinnému využití .\nTudíž to naše staré autíčko se nám pokazilo a oprava by se nám uz nevyplatí.\nTak bych vás rád požádal o pomoc. Předem vám děkuji.\nS pozdravem Milan Vozaf.\n",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/105439/photos/11573"
+         }
+      ],
+      "userId": 134245,
+      "nickName": "zonky134245",
+      "termInMonths": 48,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 100000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-09T14:20:35.503+02:00",
+      "published": true,
+      "deadline": "2017-07-11T14:12:07.038+02:00",
+      "investmentsCount": 132,
+      "questionsCount": 2,
+      "region": "11",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 106291,
+      "url": "https://app.zonky.cz/loan/106291",
+      "name": "Refinancování půjček",
+      "story": "Snil jsme o autě, tak jsem se podíval na internet a nakonec zašel do autobazaru. \n\nVlastní prostředky na koupení nového ani ojetého auta jsem neměl. \n\nV autobazaru se mi líbila jedna Octavie, byli ochotni udělat smlouvu tak, abych mohl s autem okamžitě odjet. Samozřejmě jsem si to počítal s nimi, jak mi to vyjde, vyšlo to strašně draho, ale ten pocit z mého prvního auta, byl k nezaplacení, tak jsme na to kývnul.\n\nÚrok i RPSN bylo přes 20%, tak jsem hledal řešení, jak to snížit a našel jsem Zonky. \n\nDostal jsem od Zonky oproti HomeCreditu pěkný úrok i RPSN a ještě mám měsíční splátku o 500 Kč nižší. ",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "shutterstock_165881228.40bcf96b.jpg",
+            "url": "/loans/106291/photos/11569"
+         }
+      ],
+      "userId": 135180,
+      "nickName": "zonky135180",
+      "termInMonths": 42,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 90000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-09T12:40:35.660+02:00",
+      "published": true,
+      "deadline": "2017-07-11T12:28:25.166+02:00",
+      "investmentsCount": 136,
+      "questionsCount": 0,
+      "region": "14",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104629,
+      "url": "https://app.zonky.cz/loan/104629",
+      "name": "Rada bych mela svuj domov",
+      "story": "Dobrý den, ráda bych si zařídila konečně vlastní domov, místo kam se budu ráda vracet a budu moc i odpočívat. Budu ráda za Vaši pomoc. Děkuji petra",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/104629/photos/11555"
+         }
+      ],
+      "userId": 132907,
+      "nickName": "zonky132907",
+      "termInMonths": 54,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 150000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-07T20:16:24.066+02:00",
+      "published": true,
+      "deadline": "2017-07-09T20:10:11.338+02:00",
+      "investmentsCount": 206,
+      "questionsCount": 2,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 106251,
+      "url": "https://app.zonky.cz/loan/106251",
+      "name": "Koupelna",
+      "story": "Dobry den, chtela bych konečně původní koupelnu v panelovém bytě vyměnit za novou v rámci celkové rekonstrukce bytu. Dekuji",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/106251/photos/11546"
+         }
+      ],
+      "userId": 135135,
+      "nickName": "zonky135135",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 100000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-07T15:38:40.641+02:00",
+      "published": true,
+      "deadline": "2017-07-09T15:37:22.097+02:00",
+      "investmentsCount": 129,
+      "questionsCount": 1,
+      "region": "11",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 106039,
+      "url": "https://app.zonky.cz/loan/106039",
+      "name": "Nový dětský pokojíček",
+      "story": "Dobrý den,\nrád bych Vás poprosil o peníze na vybavení nového dětského pokojíčku pro malého syna, jelikož v obýváku už přes hračky není k hnutí :)\n\nDěkuji a přeji hezký den.",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "shutterstock_309783218.08d6c2b3.jpg",
+            "url": "/loans/106039/photos/11535"
+         }
+      ],
+      "userId": 134926,
+      "nickName": "zonky134926",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 50000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-05T22:40:36.750+02:00",
+      "published": true,
+      "deadline": "2017-07-07T22:26:31.568+02:00",
+      "investmentsCount": 57,
+      "questionsCount": 1,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 99759,
+      "url": "https://app.zonky.cz/loan/99759",
+      "name": "Auto-moto",
+      "story": "Dobrý den,  chtěla bych si půjčit na auto. Jízda pro děti do školy a na kroužky. By mi ujednodušila denní život. Děkuji každemu kdo mi přispěl na půjčku.  ",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "car-default.d294a8d2.png",
+            "url": "/loans/99759/photos/11532"
+         }
+      ],
+      "userId": 127136,
+      "nickName": "zonky127136",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 90000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-05T17:01:07.231+02:00",
+      "published": true,
+      "deadline": "2017-07-07T16:53:15.217+02:00",
+      "investmentsCount": 140,
+      "questionsCount": 1,
+      "region": "7",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 106014,
+      "url": "https://app.zonky.cz/loan/106014",
+      "name": "cestovni",
+      "story": "Po vážné nemoci mé manželky jsem jí chtěl udělat radost a koupit jí letecký zájezd do Skotska a Irska.  Děkuji\n                                                                                Strama Rudolf",
+      "purpose": "3",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/106014/photos/11531"
+         }
+      ],
+      "userId": 134898,
+      "nickName": "zonky134898",
+      "termInMonths": 48,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 60000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-05T15:49:31.346+02:00",
+      "published": true,
+      "deadline": "2017-07-07T15:45:39.413+02:00",
+      "investmentsCount": 112,
+      "questionsCount": 1,
+      "region": "13",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 106789,
+      "url": "https://app.zonky.cz/loan/106789",
+      "name": "Na bezpečné auto,které bude dopravovat mé děti do školy",
+      "story": "Penízky potřebuji na doinvestování částky na koupi vozidla,které budu využívat na dopravování dětí do školy a do kroužků,jinak nemám jinou možnost.Autobusové spoje mi to neumožňují...Děkuji všem,kteří mi pomohou.....",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "car-default.d294a8d2.png",
+            "url": "/loans/106789/photos/11526"
+         }
+      ],
+      "userId": 135728,
+      "nickName": "zonky135728",
+      "termInMonths": 28,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 25000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-05T11:45:46.538+02:00",
+      "published": true,
+      "deadline": "2017-07-07T11:41:32.234+02:00",
+      "investmentsCount": 46,
+      "questionsCount": 1,
+      "region": "5",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104119,
+      "url": "https://app.zonky.cz/loan/104119",
+      "name": "Dovolena s detma",
+      "story": "Dovolena u more s mou dcerou... ",
+      "purpose": "3",
+      "photos": [
+         {
+            "name": "shutterstock_155434868.838f47f7.jpg",
+            "url": "/loans/104119/photos/11520"
+         }
+      ],
+      "userId": 132363,
+      "nickName": "zonky132363",
+      "termInMonths": 22,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 20000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-04T23:38:24.177+02:00",
+      "published": true,
+      "deadline": "2017-07-06T23:35:59.797+02:00",
+      "investmentsCount": 26,
+      "questionsCount": 0,
+      "region": "13",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104589,
+      "url": "https://app.zonky.cz/loan/104589",
+      "name": "Splnění dětského snu",
+      "story": "Od 14ti let chci auto,  ze kterého se mezitím stal youngtimer. To znamená auto,  které neztrácí na hodnotě a dá se tedy nazvat investicí,  jelikož jeho cena roste. Jen pro příklad,  v roce 2012 cca. 40.000kč. Dnes 120-150 tisíc. Tento rok je pro mně přelomový zejména tím,  že mám konečně práci,  kde vím,  že tuto půjčku zvládnu splácet i s dostatečnou rezervou.\nOd své banky jsem si půjčku nebral z toho důvodu,  že z jejich strany nebyl absolutně žádný zájem,  a vyřizování formalit se vzhledem k mé měsíční služební cestě do Anglie protáhlo na takovou dobu,  že mi žádost vypršela.\nNavíc mi Zonky nabídlo nejnižší úrok.\nSnad se mi díky Vám sen splní!",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/104589/photos/11513"
+         }
+      ],
+      "userId": 132865,
+      "nickName": "zonky132865",
+      "termInMonths": 48,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 140000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-04T18:02:42.244+02:00",
+      "published": true,
+      "deadline": "2017-07-06T17:55:36.243+02:00",
+      "investmentsCount": 222,
+      "questionsCount": 3,
+      "region": "11",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103860,
+      "url": "https://app.zonky.cz/loan/103860",
+      "name": "rozjezd",
+      "story": "Dobrý den..\nPotřeboval bych si půjčit na refinancování svých závazků a zbytek na nákup potřeb ke svému podnikání :)",
+      "purpose": "8",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/103860/photos/11447"
+         }
+      ],
+      "userId": 132082,
+      "nickName": "zonky132082",
+      "termInMonths": 46,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 150000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-04T17:18:41.882+02:00",
+      "published": true,
+      "deadline": "2017-07-06T06:23:18.745+02:00",
+      "investmentsCount": 243,
+      "questionsCount": 1,
+      "region": "13",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 105674,
+      "url": "https://app.zonky.cz/loan/105674",
+      "name": "Refinancování půjček",
+      "story": "Milí investoři,\nna rovinu, můj příběh není ničím zajímavý. :-) Jen bych ráda refinancovala své závazky, které jsou již nevýhodné a ušetřila peníze na rychlejší splácení. Před rokem jsem si půjčila u banky na vybavení bytu a chvíli potom u Zonky na přestěhování, tehdy ještě s ratingem B, na které mi chyběly peníze, protože se to vše semlelo velmi rychle. Všechno poctivě splácím, příjem se mi díky kariérnímu postupu zvýšil a mám v plánu se tohoto závazku zbavit do 48 měsíců, i dříve. Dobu splácení jsem si ale nechala delší, nikdy nevíte, co se může stát a já mám ráda určitou jistotu. Předem všem investorům děkuji.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "refi-default.a7877905.png",
+            "url": "/loans/105674/photos/11480"
+         }
+      ],
+      "userId": 134512,
+      "nickName": "zonky134512",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 180000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-04T16:03:28.162+02:00",
+      "published": true,
+      "deadline": "2017-07-06T15:35:18.703+02:00",
+      "investmentsCount": 210,
+      "questionsCount": 1,
+      "region": "14",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 106061,
+      "url": "https://app.zonky.cz/loan/106061",
+      "name": "Nový začátek",
+      "story": "Dobrý den chtěl  bych vás strašně moc poprosit o pomoc dostaly jsme se do finančních\n problému a rádi bychom se s toho dostali půjčené  peníze použijeme na Dan z nemovitosti  a  na rekonstrukci bytu  abychom to tu mohu dát vše dohromady děkuji vám moc za investování  děkuji ",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/106061/photos/11468"
+         }
+      ],
+      "userId": 134949,
+      "nickName": "zonky134949",
+      "termInMonths": 78,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 200000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-04T14:36:14.139+02:00",
+      "published": true,
+      "deadline": "2017-07-06T14:32:20.790+02:00",
+      "investmentsCount": 229,
+      "questionsCount": 4,
+      "region": "7",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104009,
+      "url": "https://app.zonky.cz/loan/104009",
+      "name": "Refinancování půjček",
+      "story": "Dobrý den, chtěl bych požádat zonky o pomoc při splacení mých dosavadních nevýhodných pujcek.\nBohužel konsolidace mě nevyšla a raději budu splácet jednu větší pujcku než 3 malé, ale pro mě nevýhodné. \nProto bych vás chtěl strašně moc poprosit o pomoc při mém refinancování. \nViděl jsem a slyšel jsem o zonkách jen to nejlepší a jsem velice rád, že jsem se mohl obrátit s pomocí právě na vás. \nS pozdravem a s díky za pomoc\n         \n                                                      Váš Štefan Palenkáš",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/104009/photos/11459"
+         }
+      ],
+      "userId": 132246,
+      "nickName": "zonky132246",
+      "termInMonths": 48,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 80000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-04T11:46:23.763+02:00",
+      "published": true,
+      "deadline": "2017-07-06T11:34:44.054+02:00",
+      "investmentsCount": 144,
+      "questionsCount": 1,
+      "region": "4",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 105848,
+      "url": "https://app.zonky.cz/loan/105848",
+      "name": "Letní sen",
+      "story": "Rád bych si pujčil na nové kolo,bohužel moje staré již není funční,a peníze co jsme našetřily ,jsme museli vložit do nového bydlení.Ted v létě by se mi kolo hodilo abychom s rodinnou mohli jezdit na výlety.:)",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/105848/photos/11457"
+         }
+      ],
+      "userId": 134708,
+      "nickName": "zonky134708",
+      "termInMonths": 47,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 20000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-04T11:37:08.004+02:00",
+      "published": true,
+      "deadline": "2017-07-06T11:32:11.995+02:00",
+      "investmentsCount": 37,
+      "questionsCount": 0,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104489,
+      "url": "https://app.zonky.cz/loan/104489",
+      "name": "Auto-moto",
+      "story": "Z důvodu letošní rekonstrukce našeho domečku na vesnici,jsme s partnerem vypotřebovali veškeré naše úspory a obětovali i naše autíčko(prodali). Nyní máme 6-ti měsíčního syna a především pro jeho pohodlí a okamžitou mobilitu chceme pořídit auto,neboť cestování s kočárkem autobusem, ať už kvůli pravidelným častým návštěvám u doktorů nebo jen vypravením se za větším nákupem je někdy opravdu dosti obtížné a pro prcka náročné. Předem děkuji každému, kdo by nám chtěl ulehčit každodenní \"povinnosti\" :-)",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "11189.png",
+            "url": "/loans/104489/photos/11475"
+         }
+      ],
+      "userId": 132762,
+      "nickName": "zonky132762",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 50000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-04T08:52:54.638+02:00",
+      "published": true,
+      "deadline": "2017-07-06T08:37:24.051+02:00",
+      "investmentsCount": 80,
+      "questionsCount": 0,
+      "region": "13",
+      "mainIncomeType": "MATERNITY_LEAVE"
+   },
+   {
+      "id": 105888,
+      "url": "https://app.zonky.cz/loan/105888",
+      "name": "Domácnost",
+      "story": "Penize pouziji na vylepšení mého bytu,který vlastním a do nové koupelny a kuchynské linky,to je pro mne důležité mít lepší bydlení na stáří které také přijde jednou.Proto sem použil tuto cestu pomoci.",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "10961.png",
+            "url": "/loans/105888/photos/11476"
+         }
+      ],
+      "userId": 134754,
+      "nickName": "zonky134754",
+      "termInMonths": 30,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 40000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-03T17:10:29.727+02:00",
+      "published": true,
+      "deadline": "2017-07-05T17:02:29.593+02:00",
+      "investmentsCount": 56,
+      "questionsCount": 0,
+      "region": "3",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103512,
+      "url": "https://app.zonky.cz/loan/103512",
+      "name": "Domácnost",
+      "story": "Dobrý den půjčku potřebuji na výměnu starého kotle .Na ten nový kotel jsem si zařídil dotaci ale zbývá mi doplatit zbytek. Vzhledem k tomu že letos jedem s dětmi k moři musím najít jiný způsob financování. Předem děkuji všem kteří se složí na mou půjčku. S pozdravem Michal s rodinou",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "10961.png",
+            "url": "/loans/103512/photos/11478"
+         }
+      ],
+      "userId": 131703,
+      "nickName": "zonky131703",
+      "termInMonths": 30,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 40000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-03T16:07:51.026+02:00",
+      "published": true,
+      "deadline": "2017-07-05T15:38:57.295+02:00",
+      "investmentsCount": 59,
+      "questionsCount": 0,
+      "region": "8",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 105736,
+      "url": "https://app.zonky.cz/loan/105736",
+      "name": "Refinancování půjček",
+      "story": "Nic zajímavé milí investoři. Sem schopnej splácet úvěry. Ale tie kreditky mi nejdoův. Pořád se dá z nich vybírat.Penizky si od vás nevemu dokud nebudete souhlasit s tím že každý z vás dostane info .o tom že sem peníze použil na dané účeli a nenavyšuji dlh. Díky za pochopení a uvidíme.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "11079.png",
+            "url": "/loans/105736/photos/11430"
+         }
+      ],
+      "userId": 134582,
+      "nickName": "eci",
+      "termInMonths": 16,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 130000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-03T15:22:57.079+02:00",
+      "published": true,
+      "deadline": "2017-07-05T15:11:54.024+02:00",
+      "investmentsCount": 144,
+      "questionsCount": 0,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 105695,
+      "url": "https://app.zonky.cz/loan/105695",
+      "name": "Završení bytové rekonstrukce",
+      "story": "K tomu, abych konečně odložil montérky a začal se těšit z dobře vykonané práce svépomocí, mi schází krůček. Nerad kohokoliv prosím o peníze a dlouho jsem váhal, ale tady cítím, že mi rozumí. Příště pomohu někomu já, rozhodně. Rád. Díky!",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/105695/photos/11424"
+         }
+      ],
+      "userId": 134536,
+      "nickName": "kulda",
+      "termInMonths": 22,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 60000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-03T12:36:03.797+02:00",
+      "published": true,
+      "deadline": "2017-07-05T12:26:12.175+02:00",
+      "investmentsCount": 91,
+      "questionsCount": 1,
+      "region": "12",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 104294,
+      "url": "https://app.zonky.cz/loan/104294",
+      "name": "Pomáhat tělesně postiženým",
+      "story": "Jsem invalidní důchodce II stupn.Půjičku použiju na nákup 8 místne dodávky k cestě do nemocnice a na pomoc stejně postiženým,jako jsem já. Přivydělávám si jako řidič autobusu u AD Hrubý.",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "shutterstock_323504294.8769275f.jpg",
+            "url": "/loans/104294/photos/11418"
+         }
+      ],
+      "userId": 132558,
+      "nickName": "zonky132558",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 170000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-03T11:43:29.812+02:00",
+      "published": true,
+      "deadline": "2017-07-05T11:40:32.733+02:00",
+      "investmentsCount": 231,
+      "questionsCount": 1,
+      "region": "6",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 105836,
+      "url": "https://app.zonky.cz/loan/105836",
+      "name": "Refinancování půjček",
+      "story": "Dobrý den, vlastním debetní kartu, potřebovala jsem rychle finance, a teď zjišťuji jaké má nevýhody,  například úrok a možnost výběru kdykoliv,  takže v podstatě našeřená částka mě láká k výběru a tohoto bych se potřebovala ,, zbavit\", chtěla bych být konečně bez dluhu a ,, svobodná\", děkuji ",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "11079.png",
+            "url": "/loans/105836/photos/11479"
+         }
+      ],
+      "userId": 134693,
+      "nickName": "Lusiferis",
+      "termInMonths": 41,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 35000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-03T09:38:10.022+02:00",
+      "published": true,
+      "deadline": "2017-07-05T09:34:16.099+02:00",
+      "investmentsCount": 61,
+      "questionsCount": 1,
+      "region": "12",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103621,
+      "url": "https://app.zonky.cz/loan/103621",
+      "name": "veselka",
+      "story": "Rád bych přispěl na svatbu nevlastní dcery. Po větších výdajích v loňském roce, kdy se vyčerpaly i rezervy, se nechci jen účastnit a nepřispět na náklady a dar. Menší část využiji i na řidičský průkaz, který bych rád dal k narozeninám dceři vlastní. ",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/103621/photos/11408"
+         }
+      ],
+      "userId": 131820,
+      "nickName": "zonky131820",
+      "termInMonths": 66,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 50000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-03T08:52:44.682+02:00",
+      "published": true,
+      "deadline": "2017-07-05T08:49:06.603+02:00",
+      "investmentsCount": 87,
+      "questionsCount": 1,
+      "region": "11",
+      "mainIncomeType": "LIBERAL_PROFESSION"
+   },
+   {
+      "id": 104616,
+      "url": "https://app.zonky.cz/loan/104616",
+      "name": "Refinancování půjček",
+      "story": "Dobrý den. Ráda bych refinancovala svou půjčku s vysokým úrokem a kreditní kartu a ušetřila tak nějaké peníze, které využiju na zvelebení bytu. Předem Vám moc děkuji za pomoc",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "shutterstock_227689387.b716626c.jpg",
+            "url": "/loans/104616/photos/11404"
+         }
+      ],
+      "userId": 132894,
+      "nickName": "zonky132894",
+      "termInMonths": 72,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 110000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-01T13:26:59.379+02:00",
+      "published": true,
+      "deadline": "2017-07-03T13:24:02.699+02:00",
+      "investmentsCount": 179,
+      "questionsCount": 1,
+      "region": "14",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 105150,
+      "url": "https://app.zonky.cz/loan/105150",
+      "name": "Mít místo na relax",
+      "story": "Dobrý den, \njmenuji se Klárka a mám 15tiletého syna.\nJako svobodná matka si plním další sen.\nFinanční prostředky chci použít na koupi chaty se zahradou, kde chceme trávit víkendy a budeme v kontaktu s přírodou.\nMoc se těšíme až poprvé posečeme trávu, zasadíme keře malin, rybízu, nějaký stromek a okopeme záhonky. \nMám v plánu, tak mít spousty kytek. Určitě to bude práce a starost na celý život.\nAle kdo ví, možná si ji jednou přizpůsobíme k trvalému pobytu a rovnou se tam přestěhujeme:-)\n",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "Chata.jpg",
+            "url": "/loans/105150/photos/11402"
+         }
+      ],
+      "userId": 133896,
+      "nickName": "zonky133896",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 100000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-07-01T06:13:04.020+02:00",
+      "published": true,
+      "deadline": "2017-07-03T05:47:56.618+02:00",
+      "investmentsCount": 157,
+      "questionsCount": 1,
+      "region": "11",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 100271,
+      "url": "https://app.zonky.cz/loan/100271",
+      "name": "Auto-moto",
+      "story": "Dobrý den.\n   Peníze, které bych touto cestou získal, bych použil na koupi motorky. Již jsem jich několik vlastnil ale pokaždé jsem je opět prodal a peníze zainvestoval do RD a zahrady. Protože už mám tuto cestu za sebou a je již hotovo to, co je základem spokojené rodiny, hodlám si pořídit také něco, co jsem odkládal na druhou kolej a co je mým koníčkem. Tuto variantu jsem zvolil jako lidskou cestu a i vlastně z důvodu mé zvědavosti, zda-li se opravdu složí obyčejní lidé jako jsem já na něco, z čeho nebudou mít sami užitek a možná ani velký zisk ale spíše dobrý pocit. A hlavně, líbí se mi to, že mohu částku kdykoliv doplatit bez nějakých sankcí či pokut. Všem co přispějí i nepatrnou částkou jako člověk člověku děkuji. Pavel",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "shutterstock_370611698.a4cb30fd.jpg",
+            "url": "/loans/100271/photos/11397"
+         }
+      ],
+      "userId": 127716,
+      "nickName": "zonky127716",
+      "termInMonths": 48,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 60000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-30T20:45:42.841+02:00",
+      "published": true,
+      "deadline": "2017-07-02T20:24:38.506+02:00",
+      "investmentsCount": 87,
+      "questionsCount": 0,
+      "region": "4",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 79184,
+      "url": "https://app.zonky.cz/loan/79184",
+      "name": "Refinancování půjček",
+      "story": "Krásny den  ... chci refinancovat protože úrok 16 procent se mi zda moc .....",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "11079.png",
+            "url": "/loans/79184/photos/11484"
+         }
+      ],
+      "userId": 102737,
+      "nickName": "zonky102737",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 205000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-30T18:34:49.692+02:00",
+      "published": true,
+      "deadline": "2017-07-02T18:30:45.352+02:00",
+      "investmentsCount": 82,
+      "questionsCount": 1,
+      "region": "7",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104477,
+      "url": "https://app.zonky.cz/loan/104477",
+      "name": "nová etapa života",
+      "story": "Jmenuji se Eva,je mi 48 let,mám 2 dospělé děti a jsem rozvedená.Vsoučasné  době žiji s přítelem,se kterým chci stávit zbytek života.Bydlíme v podnájmu a rádi bychom si v pronajatém bytě částečně zrekonstruovali kuchyn.Starám se o starou nemocnou matku ,kteráje po plicní embolii a má poškozený zrak.Z toho důvodu bych si ráda udělala řidičský průkaz a koupila starší vůz,protože ji pravidelně dovážím na kontroly.Vminulosti jsem si za drahé peníze půjčila,a ráda bych prostřednictvím Zonky tyto splatila.Životní situace se mi zkomplikovala ještě tím,že jsem začátkem ledna prodělala operaci ruky pobírala jsem nemocenskou.Nyní jsem již zdráva a pracuji.Pokud mám volný čas ,ráda jdu do přírodya jedu na kole.Jsem typ člověka,který je plný naděje,že vše zvládnua to mi pomáhá.Předem všem moc děkuji.",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/104477/photos/11388"
+         }
+      ],
+      "userId": 132750,
+      "nickName": "zonky132750",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 270000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-30T17:34:19.188+02:00",
+      "published": true,
+      "deadline": "2017-07-02T16:40:48.190+02:00",
+      "investmentsCount": 82,
+      "questionsCount": 2,
+      "region": "7",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104635,
+      "url": "https://app.zonky.cz/loan/104635",
+      "name": "Nový domov",
+      "story": "Prosím o pomoc pro mě a mého skoro 2letého syna. Jsme sami a rádi bychom si vytvořili domov a ne pouze prostor k přebívání. Bohužel nejsme nepřizpůsobivý a nikdo jiný nám nepomůže. Moc děkuji. :)",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/104635/photos/11381"
+         }
+      ],
+      "userId": 132914,
+      "nickName": "zonky132914",
+      "termInMonths": 48,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 60000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-30T16:14:17.306+02:00",
+      "published": true,
+      "deadline": "2017-07-02T16:07:50.652+02:00",
+      "investmentsCount": 82,
+      "questionsCount": 0,
+      "region": "5",
+      "mainIncomeType": "MATERNITY_LEAVE"
+   },
+   {
+      "id": 104943,
+      "url": "https://app.zonky.cz/loan/104943",
+      "name": "Můj byt",
+      "story": "Dobry den, \nProtože momentálně rekonstruujeme náš první byt, tak bychom rádi koupili nový nábytek a zařídili si byt po svém.\nJá i má přítelkyně pracujeme na plný úvazek a máme stálý přijem. + Refinancování.\nDekuju moc.",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/104943/photos/11373"
+         }
+      ],
+      "userId": 133634,
+      "nickName": "zonky133634",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 135000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-30T14:41:40.489+02:00",
+      "published": true,
+      "deadline": "2017-07-02T14:30:29.447+02:00",
+      "investmentsCount": 189,
+      "questionsCount": 0,
+      "region": "11",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 97673,
+      "url": "https://app.zonky.cz/loan/97673",
+      "name": "Refinancování půjček",
+      "story": "refinancovani nevyhodneho leasingu.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "11079.png",
+            "url": "/loans/97673/photos/11489"
+         }
+      ],
+      "userId": 124576,
+      "nickName": "zonky124576",
+      "termInMonths": 38,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 130000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-30T14:18:55.899+02:00",
+      "published": true,
+      "deadline": "2017-07-02T14:16:32.141+02:00",
+      "investmentsCount": 179,
+      "questionsCount": 1,
+      "region": "1",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102314,
+      "url": "https://app.zonky.cz/loan/102314",
+      "name": "BEZVA AUTO",
+      "story": "Dobrý den.CHtěl bych si koupit novější automobil a nemám dostatek financí,proto žádám prostřednictvím společnosti Zonky o půjčku ve výši 250 000 kč.Předem děkuji",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/102314/photos/11366"
+         }
+      ],
+      "userId": 130336,
+      "nickName": "zonky130336",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 260000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-30T13:05:45.251+02:00",
+      "published": true,
+      "deadline": "2017-07-02T12:50:50.434+02:00",
+      "investmentsCount": 199,
+      "questionsCount": 1,
+      "region": "13",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 105465,
+      "url": "https://app.zonky.cz/loan/105465",
+      "name": "TAXI",
+      "story": "..penize chci vyuzit na opravu motoru na mem OV,ktere vyuzivam pro sluzby TAXI",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "shutterstock_401948656.6b9ca857.jpg",
+            "url": "/loans/105465/photos/11359"
+         }
+      ],
+      "userId": 134279,
+      "nickName": "pajataxi77",
+      "termInMonths": 16,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 30000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-30T11:47:26.209+02:00",
+      "published": true,
+      "deadline": "2017-07-02T11:42:51.189+02:00",
+      "investmentsCount": 42,
+      "questionsCount": 0,
+      "region": "3",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104479,
+      "url": "https://app.zonky.cz/loan/104479",
+      "name": "Auto, oprava motorky, nábytek.",
+      "story": "No, je to prosté. Kupuji své první auto, nechám opravit motorku a koupil bych nějaký nábytek a vybavení do bytu.",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "11189.png",
+            "url": "/loans/104479/photos/11492"
+         }
+      ],
+      "userId": 132752,
+      "nickName": "Vojtin",
+      "termInMonths": 24,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 65000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-30T10:23:24.065+02:00",
+      "published": true,
+      "deadline": "2017-07-02T10:16:40.347+02:00",
+      "investmentsCount": 106,
+      "questionsCount": 0,
+      "region": "12",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104096,
+      "url": "https://app.zonky.cz/loan/104096",
+      "name": "Dokončení rekonstrukce kuchyně.",
+      "story": "Začala jsem dělat rekonstrukci kuchyně a zvolila jsem zařizovací předměty ve vysoké kvalitě. Půjčku potřebuji na dokončení rekonstrukce, chci zachovat kvalitu.",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "othe-default.cbec3a78.png",
+            "url": "/loans/104096/photos/11346"
+         }
+      ],
+      "userId": 132338,
+      "nickName": "zonky132338",
+      "termInMonths": 18,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 50000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-30T09:17:18.106+02:00",
+      "published": true,
+      "deadline": "2017-07-02T09:13:50.942+02:00",
+      "investmentsCount": 76,
+      "questionsCount": 0,
+      "region": "11",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102442,
+      "url": "https://app.zonky.cz/loan/102442",
+      "name": "Promoce a jiné",
+      "story": "Dobrý den,\npůjčku od Zonky bych ráda využila na doplacení kontokorentu + kreditní karty, kde je úrok vysoký, zbylé peníze bych ráda využila na koupi dárku pro syna k promoci, nějak jsem do něj za roky studia investovala příliš a teď bych potřebovala rychlou půjčku ještě na ten jeho poslední krok k ukončení studia na UK.\nDěkuji\nStribrnka",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "IMG_9252.JPG",
+            "url": "/loans/102442/photos/11338"
+         }
+      ],
+      "userId": 130491,
+      "nickName": "Stribrnka",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 60000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-29T21:39:41.874+02:00",
+      "published": true,
+      "deadline": "2017-07-01T21:25:12.972+02:00",
+      "investmentsCount": 104,
+      "questionsCount": 0,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104617,
+      "url": "https://app.zonky.cz/loan/104617",
+      "name": "Refinancování půjček",
+      "story": "Dobry den,\nJmenuji se Roman a jsem Barman.\nTimto bych Vas chtel poprosit jestli mi pomuzete zbavit se drahych kreditnich karet,abych si mohl usetrit na nove auto.\nDekuji mnohokrat.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/104617/photos/11331"
+         }
+      ],
+      "userId": 132895,
+      "nickName": "zonky132895",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 125000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-29T19:31:15.507+02:00",
+      "published": true,
+      "deadline": "2017-07-01T19:29:08.360+02:00",
+      "investmentsCount": 173,
+      "questionsCount": 2,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 105020,
+      "url": "https://app.zonky.cz/loan/105020",
+      "name": "První opravdový angličák",
+      "story": "Vzhledem k tomu, že jsem se rozhodl po nějaké době prodat současné (a řádně splacené) auto, tak poptávám půjčku na novější - a to nejspíše od britské značky.\nVozidlo využívám zejména k práci, v rámci které často cestuji po celé ČR i do zahraničí - proto jsem se rozhodl pro nové a pohodlnější auto.\nPočítám s občasnými mimořádnými splátkami, aby byla vaše investice co nejdříve vrácena. Děkuji za Vaše nabídky.",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/105020/photos/11317"
+         }
+      ],
+      "userId": 133733,
+      "nickName": "zonky133733",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 200000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-29T17:00:22.304+02:00",
+      "published": true,
+      "deadline": "2017-07-01T16:50:57.855+02:00",
+      "investmentsCount": 266,
+      "questionsCount": 1,
+      "region": "11",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 102389,
+      "url": "https://app.zonky.cz/loan/102389",
+      "name": "STAVBA DŘEVENÉ PERGOLY",
+      "story": "DOBRÝ DEN , DĚLAL JSEM REKONSTRUKCI RODINNÉHO DOMU  ( interieru ) S VLASTNÍCH ZDROJŮ , KDE NÁS TO STÁLO Z MANŽELKOU ZHRUBA 500000 KČ , TET DĚLÁM OKOLÍ DOMU A CHCI POSTAVIT DŘEVENU  PERGOLU + SEZENÍ . 46000 KČ BY JSEM CHTĚL VRÁTIT KAMARÁDOVI , KTERÝ MY PUJIČIL NA DODĚLANÍ VNITŘKU ( KOUPELNY ) A ZBYTEK PENĚZ POUŽIT NA PERGOLU , SEZENÍ A ZATRÁVNENÍ POZEMKU. PŘEDEM VÁM DĚKUJÍ.",
+      "purpose": "8",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/102389/photos/11309"
+         }
+      ],
+      "userId": 130432,
+      "nickName": "RAMON22",
+      "termInMonths": 48,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 100000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-29T16:09:12.170+02:00",
+      "published": true,
+      "deadline": "2017-07-01T15:51:45.108+02:00",
+      "investmentsCount": 149,
+      "questionsCount": 0,
+      "region": "8",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103778,
+      "url": "https://app.zonky.cz/loan/103778",
+      "name": "to bude jízda",
+      "story": "mám velký sen získat krásný červenožlutý lokotraktor který bude jezdit po mém kolejišti N a k tomu postavím díky vám seřazovací nádraží Krahulov tak jak je podle skutečnosti ",
+      "purpose": "8",
+      "photos": [
+         {
+            "name": "11189.png",
+            "url": "/loans/103778/photos/11503"
+         }
+      ],
+      "userId": 131991,
+      "nickName": "zonky131991",
+      "termInMonths": 47,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 20000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-29T15:27:44.661+02:00",
+      "published": true,
+      "deadline": "2017-07-01T15:21:24.793+02:00",
+      "investmentsCount": 22,
+      "questionsCount": 0,
+      "region": "10",
+      "mainIncomeType": "PENSION"
+   },
+   {
+      "id": 100171,
+      "url": "https://app.zonky.cz/loan/100171",
+      "name": "Refinancování půjček",
+      "story": "Vážení investoři,\nvšechny své naspořené peníze, i něco navíc, jsem použil k opravě domu rodičů mé přítelkyně, ve kterém jsme 2 roky bydleli. Bohužel jsme byli nuceni odstěhovat se do jiného bytu, který je vázán hypotékou. Přítelkyni jsem musel koupit auto, kterým jezdí se dvěma syny k lékařům a větší nákupy. Těď pracuji 300 hodin měsíčně a rodinu skoro nevídám, kvůli tomu, že jsem nám chtěl pomoci a o investované peníze do domu jsem, díky nesolidnímu jednání tchána, přišel. Zonky mi nabízí pomoc formou nižších splátek na auto a já tak budu moci častěji vídat své děti a být dobrý táta. Děkuji i Vám za Vaši pomoc \n ",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/100171/photos/11271"
+         }
+      ],
+      "userId": 127606,
+      "nickName": "zonky127606",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 170000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-29T14:12:27.252+02:00",
+      "published": true,
+      "deadline": "2017-07-01T09:30:21.805+02:00",
+      "investmentsCount": 161,
+      "questionsCount": 1,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 79275,
+      "url": "https://app.zonky.cz/loan/79275",
+      "name": "Auto-moto",
+      "story": "Zdravím :-) je mi 26 let a pracuji jako recepční. Vždy jsem se bála závazků, takže i teď chci tuto půjčku splatit co nejdříve.\nJako malá holka jsem měla jeden velký sen - zpívat lidem. Má mamka říká, že jsem broukala dřív, než jsem začala mluvit... \nSen se stal realitou a už téměř pět let mám možnost zpívat lidem, má to jeden háček, musela jsem vyměnit mé první auto, které mám 6 let,za novější. \nBanka mi poskytla úvěr, který bych tímto splatila a ušetřila celý poslední rok splácení a polovinu úroků. Věřím, že mě podpoříte a tímto bych chtěla poděkovat všem, že dáváte lidem možnost, si plnit sny dřív, než si na to naspoří... ",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "vw.jpg",
+            "url": "/loans/79275/photos/11320"
+         }
+      ],
+      "userId": 102836,
+      "nickName": "zonky102836",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 160000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-29T13:35:10.925+02:00",
+      "published": true,
+      "deadline": "2017-07-01T13:16:27.142+02:00",
+      "investmentsCount": 223,
+      "questionsCount": 0,
+      "region": "5",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 105330,
+      "url": "https://app.zonky.cz/loan/105330",
+      "name": "nový fotoaparát",
+      "story": "Milí přátelé,\n        můj velký koníček je fotografie. \nFotila jsem vše co přišlo mému oku milé a zajímavé pro zachování ve formě fotografie.\nMé sny začínaly mít i rozměr tvůrčí práce, menší svatby, malé dětičky a zřizovala ateliér pro menší zvířátka s páníčky.\nMoc mě baví a to se stále učím je následná úprava fotografií v\neditorech.\nProč je vše v minulém čase?, fotoaparát mi byl ukraden, čekala jsem zda se podaří najít člověk, který si ho přivlastnil...marně.\nRozhodla jsem se o tuto půjčku s pomocí Vás, abych mohla začít znovu.\nChci své sny zhmotnit do reality a pokračovat v tom, co mě baví a naplňuje. Je to má srdcovka.\nMoc Vám děkuji za přečtení mého příběhu a důvěru.\n                                                                                         Irena\n",
+      "purpose": "8",
+      "photos": [
+         {
+            "name": "DSC_0111.JPG",
+            "url": "/loans/105330/photos/11279"
+         }
+      ],
+      "userId": 134122,
+      "nickName": "zonky134122",
+      "termInMonths": 22,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 20000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-29T10:34:47.573+02:00",
+      "published": true,
+      "deadline": "2017-07-01T10:07:55.894+02:00",
+      "investmentsCount": 41,
+      "questionsCount": 1,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102512,
+      "url": "https://app.zonky.cz/loan/102512",
+      "name": "Auto-moto",
+      "story": "Dobrý den, před rokem jsem si zde půjčil na opravu firemního auta 50000, které jsem ještě s měsíčním předstihem nedávno doplatil. Nyní bych se ho rád zbavil a koupil novější, tohle už dosluhuje a je zbytečné do nej dál  cpát peníze. Proto se obracim na Vás. Jako osvč mi jinde nepůjčí a se zonky jem byl spokojený.  Díky za důvěru.",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "1",
+            "url": "/loans/102512/photos/11273"
+         }
+      ],
+      "userId": 130586,
+      "nickName": "zonky130586",
+      "termInMonths": 28,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 200000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-29T09:55:48.686+02:00",
+      "published": true,
+      "deadline": "2017-07-01T09:47:02.729+02:00",
+      "investmentsCount": 296,
+      "questionsCount": 1,
+      "region": "2",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 105026,
+      "url": "https://app.zonky.cz/loan/105026",
+      "name": "Refinancování půjček",
+      "story": "Jmenuji se Dana.Již dlouhou dobu vláčím na noze balvan v podobě 3. kreditních karet.Zpočátku jsem věřila nabídkám, jak je to velice výhodné, jak se mi budou vracet peníze z jednotlivých nákupů, atd.atd.Nakonec jsem zjistila, že se mi tato \"služba\" stala velikou přítěží,kdy z každé splátky jde minimální částka na úhradu dluhu, ale větší částka na úroky.Namísto snižování dluhu mi dluh neustále narůstá a splátky jdou z větší části pouze na úroky.Pokud získám peníze na úhradu těchto \"výhodných\" karet, velmi se  mi uleví a nebudu dále žít ve stresu, jak se této zátěže zbavit.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/105026/photos/11257"
+         }
+      ],
+      "userId": 133740,
+      "nickName": "zonky133740",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 200000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-28T19:17:12.599+02:00",
+      "published": true,
+      "deadline": "2017-06-30T18:49:04.999+02:00",
+      "investmentsCount": 285,
+      "questionsCount": 3,
+      "region": "1",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 97219,
+      "url": "https://app.zonky.cz/loan/97219",
+      "name": "Refinancování půjček",
+      "story": "   Vážení investoři, obracím se na Vás s žádosti o refinancování dvou půjček, které jsme si vzali z mladické nerozvážnosti. Jak se říká: Za hloupost se platí, a v našem případě je to pravda.\n  Jsme mladá rodina s dvěma prckama ( 1 a 4 roky) a splátky které máme jsou příliš vysoké na to, aby jsme s dětmi občas vyrazili například do ZOO. Vy, společně se Zonky, nám můžete pomoci užít si rodinnou pohodu bez starostí.\n   Děkuji, že jste si udělali chvilku na přečtení a děkujeme za případné investice.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/97219/photos/11249"
+         }
+      ],
+      "userId": 123734,
+      "nickName": "zonky123734",
+      "termInMonths": 78,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 300000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-28T17:40:31.730+02:00",
+      "published": true,
+      "deadline": "2017-06-30T17:23:52.400+02:00",
+      "investmentsCount": 334,
+      "questionsCount": 3,
+      "region": "5",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 99453,
+      "url": "https://app.zonky.cz/loan/99453",
+      "name": "Drobná rekonstrukce bytu",
+      "story": "Dobrý den, jmenuji se Veronika. \nZatím jsem si nikdy nepůjčila od nikoho peníze. Vždy jsem byla velmi spořivá a na vše uspořila. A tak jsem si řekla, že bych jednou mohla mít svůj cíl rychleji než běžně. Obrátila jsem se tedy na Zonky. Peníze, které chci půjčit, dodám ke své  naspořené částce, abych mohla dokončit drobnou rekonstrukci bytu a část dodat k zakoupení ojetého vozu. Jedná se o rekonstrukci dětského pokoje a sociálního zařízení zbytek půjde do ojetého vozu. Protože jsem měla letos smůlu a původní vůz dosloužil. Tomu kdo bude investovat velmi děkuji. Vaše Veru ",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "9",
+            "url": "/loans/99453/photos/11239"
+         }
+      ],
+      "userId": 126746,
+      "nickName": "VeruDAPE",
+      "termInMonths": 40,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 70000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-28T16:51:52.146+02:00",
+      "published": true,
+      "deadline": "2017-06-30T16:34:40.419+02:00",
+      "investmentsCount": 115,
+      "questionsCount": 1,
+      "region": "11",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103139,
+      "url": "https://app.zonky.cz/loan/103139",
+      "name": "Vlastní projekt",
+      "story": "Dobrý den.\nRád bych vás požádal o podporu ve formě půjčky k dokončení našeho krásného vysněného hnízdečka.\nCo nám zbývá?:)Už jen to kde krásný den začíná a končí...Moc děkujeme:)",
+      "purpose": "8",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/103139/photos/11232"
+         }
+      ],
+      "userId": 131298,
+      "nickName": "BOBESS",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 70000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-28T15:11:37.074+02:00",
+      "published": true,
+      "deadline": "2017-06-30T15:06:20.633+02:00",
+      "investmentsCount": 102,
+      "questionsCount": 1,
+      "region": "6",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103667,
+      "url": "https://app.zonky.cz/loan/103667",
+      "name": "refinancování a vysněný zahradní domek",
+      "story": "Dobrý den milý investoři. Touto půjčkou bych chtěl splatit nevýhodnou kreditní kartu a z toho co mi zůstane bych si chtěl rekonstruovat zahradní domek s malým hřištěm pro mé prcky. Moc Vám děkuji za Vaší pomoc.S pozdravem Venca",
+      "purpose": "9",
+      "photos": [
+
+      ],
+      "userId": 131872,
+      "nickName": "zonky131872",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 180000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-28T14:43:24.605+02:00",
+      "published": true,
+      "deadline": "2017-06-30T14:27:20.791+02:00",
+      "investmentsCount": 241,
+      "questionsCount": 2,
+      "region": "6",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104368,
+      "url": "https://app.zonky.cz/loan/104368",
+      "name": "Hana Kolbertová",
+      "story": "Dobrý den.půjčené penize chci použít na novou kuchyň a topení v našem domě,děkuji a zdravím Hana",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "10961.png",
+            "url": "/loans/104368/photos/11225"
+         }
+      ],
+      "userId": 132638,
+      "nickName": "zonky132638",
+      "termInMonths": 66,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 200000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-28T13:24:14.888+02:00",
+      "published": true,
+      "deadline": "2017-06-30T13:22:18.693+02:00",
+      "investmentsCount": 251,
+      "questionsCount": 1,
+      "region": "11",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103132,
+      "url": "https://app.zonky.cz/loan/103132",
+      "name": "Pro mě je to půjčka do života \uD83D\uDE00",
+      "story": "Dobrý den , peníze bych chtěl použit na vybavení svého bytu , pořídit si konečně řidičák a tak vůbec postavit se na vlastní nohy \uD83D\uDE0A také bych se chtěl podívat někam mimo ČR. A zbytek peněz si nechat uložené a mít tím pádem finanční rezervu. Jednoduše chci začít žít svůj život a tato půjčka mi to dovolí. Děkuji za přečtení. Jarda Ch.",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/103132/photos/11211"
+         }
+      ],
+      "userId": 131290,
+      "nickName": "zonky131290",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 100000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-28T10:30:44.618+02:00",
+      "published": true,
+      "deadline": "2017-06-30T10:25:22.565+02:00",
+      "investmentsCount": 150,
+      "questionsCount": 4,
+      "region": "6",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103747,
+      "url": "https://app.zonky.cz/loan/103747",
+      "name": "Jiné",
+      "story": "Chci si splnit sen , děkuji všem že mi to umožní . \n\nJsem zaměstnanec a budu řádně splácet ",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/103747/photos/11210"
+         }
+      ],
+      "userId": 131957,
+      "nickName": "zonky131957",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 140000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-28T10:04:31.846+02:00",
+      "published": true,
+      "deadline": "2017-06-30T10:00:52.260+02:00",
+      "investmentsCount": 208,
+      "questionsCount": 8,
+      "region": "12",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102179,
+      "url": "https://app.zonky.cz/loan/102179",
+      "name": "Refinancování půjček",
+      "story": "Žádám o refinancování u Zonky z důvodů nižší úrokové sazby.\nDěkuji vám milí investoři.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/102179/photos/11198"
+         }
+      ],
+      "userId": 130152,
+      "nickName": "zonky130152",
+      "termInMonths": 38,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 165000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-27T21:46:47.865+02:00",
+      "published": true,
+      "deadline": "2017-06-29T21:44:43.109+02:00",
+      "investmentsCount": 229,
+      "questionsCount": 2,
+      "region": "13",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104200,
+      "url": "https://app.zonky.cz/loan/104200",
+      "name": "Dovolená pro děti",
+      "story": "Dobrý den, jsem obyčejný člověk a obyčejný rodič, který chce vzít svou rodinu, která čítá manželku a tři děti na dovolenou. Letos nám na ní nevyšly finance, proto jsem se rozhodl k tomuto kroku a půjčit si na ní peníze. ",
+      "purpose": "3",
+      "photos": [
+
+      ],
+      "userId": 132449,
+      "nickName": "zonky132449",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 25000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-27T21:24:41.670+02:00",
+      "published": true,
+      "deadline": "2017-06-29T21:19:56.261+02:00",
+      "investmentsCount": 39,
+      "questionsCount": 1,
+      "region": "13",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103110,
+      "url": "https://app.zonky.cz/loan/103110",
+      "name": "Refinancování půjček",
+      "story": "Pujcku pouziji na refinancovani kratkodobych pujcek u dvou nebankovnich instituci ,kde jsou bohuzel vysoke uroky, diky zonky budu splacet polovinu a daleko mene preplatim.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/103110/photos/11191"
+         }
+      ],
+      "userId": 131266,
+      "nickName": "zonky131266",
+      "termInMonths": 31,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 55000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-27T19:27:24.437+02:00",
+      "published": true,
+      "deadline": "2017-06-29T19:21:28.502+02:00",
+      "investmentsCount": 79,
+      "questionsCount": 0,
+      "region": "13",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 104798,
+      "url": "https://app.zonky.cz/loan/104798",
+      "name": "Refinancování půjček",
+      "story": "Dobrý den, se společnosti zonky mam velmi dobre zkušenosti. Jejich služeb uz jsem využil dříve a uver bez problému a s předstihem doplatil. Nyní by jsem chtěl doplatit nevýhodný uver na auto, kde je urok 19%, coz se mi zda na dnešní dobu hodně. Věřím a doufám, ze mi s tím na zonky pomohou. Dekuji moc",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/104798/photos/11188"
+         }
+      ],
+      "userId": 133383,
+      "nickName": "zonky133383",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 110000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-27T19:14:29.256+02:00",
+      "published": true,
+      "deadline": "2017-06-29T19:10:46.523+02:00",
+      "investmentsCount": 152,
+      "questionsCount": 1,
+      "region": "4",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 103787,
+      "url": "https://app.zonky.cz/loan/103787",
+      "name": "Letní práce",
+      "story": "Rád bych přes prázdninový čas, vylepšil chov včel.",
+      "purpose": "8",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/103787/photos/11186"
+         }
+      ],
+      "userId": 132000,
+      "nickName": "zonky132000",
+      "termInMonths": 11,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 30000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-27T18:54:20.603+02:00",
+      "published": true,
+      "deadline": "2017-06-29T18:51:56.693+02:00",
+      "investmentsCount": 38,
+      "questionsCount": 0,
+      "region": "5",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 104034,
+      "url": "https://app.zonky.cz/loan/104034",
+      "name": "Refinancování  půjčky",
+      "story": "Zdravím vás investoři. Refinancuji skrze Zonky již podruhé. Přesněji refinancuji půjčku kterou již mám vedenou zde na Zonky s tím, že jsem si částku navýšil abych mohl refinancovat 30 000 úvěr od banky za které jsem nakoupil potřebné věci pro můj osobní rozvoj a rozvoj svého podnikání. Děkuji vám investorům za vloženou důvěru a Zonky na možnost takto refinancovat. Dalibor P.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/104034/photos/11172"
+         }
+      ],
+      "userId": 132272,
+      "nickName": "Daliborr",
+      "termInMonths": 37,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 130000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-27T17:25:44.360+02:00",
+      "published": true,
+      "deadline": "2017-06-29T17:17:25.516+02:00",
+      "investmentsCount": 186,
+      "questionsCount": 2,
+      "region": "13",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103004,
+      "url": "https://app.zonky.cz/loan/103004",
+      "name": "Jiné",
+      "story": "Dobrý deň, Peniažky si chceme požičať na rekonštrukciu detských izieb v dome,pretože nám deti rastú a potrebujú súkromie.Taktiež potrebujeme auto na dopravu do zamestnania.Zo športu mám rád kolobežku a beh,milujeme proste život,ďakujeme",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "10961.png",
+            "url": "/loans/103004/photos/11183"
+         }
+      ],
+      "userId": 131149,
+      "nickName": "zonky131149",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 250000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-27T16:40:00.316+02:00",
+      "published": true,
+      "deadline": "2017-06-28T16:38:54.678+02:00",
+      "investmentsCount": 66,
+      "questionsCount": 4,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 101369,
+      "url": "https://app.zonky.cz/loan/101369",
+      "name": "Refinancování půjček",
+      "story": "Muj pribeh zacina tak ze bych potrebovala refinancovat pujcku jelikoz po rozchodu nezvladam splacet u jine banky tak velkou splátku. Bude to pro me zachrana. Dekuji moc lidem.kteri mi pujci",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/101369/photos/11161"
+         }
+      ],
+      "userId": 128890,
+      "nickName": "zonky128890",
+      "termInMonths": 78,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 30000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-27T15:45:41.833+02:00",
+      "published": true,
+      "deadline": "2017-06-29T15:41:50.901+02:00",
+      "investmentsCount": 44,
+      "questionsCount": 0,
+      "region": "11",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102141,
+      "url": "https://app.zonky.cz/loan/102141",
+      "name": "cestička k domovu",
+      "story": "Dobrý den, mé jméno je Nikola a obracím se na vás lidičky z velkým přaním které by potřebovalo Vaší pomoc.Dostavěla jsem dům a nezbylo nám už dostatek prostředků na chodník,tak bych vás rada požádala o pomoc děkuji.:)",
+      "purpose": "8",
+      "photos": [
+         {
+            "name": "IMG_20170430_160741.jpg",
+            "url": "/loans/102141/photos/11141"
+         }
+      ],
+      "userId": 130091,
+      "nickName": "zonky130091",
+      "termInMonths": 32,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 70000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-27T11:03:15.133+02:00",
+      "published": true,
+      "deadline": "2017-06-29T10:56:37.739+02:00",
+      "investmentsCount": 125,
+      "questionsCount": 0,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 101210,
+      "url": "https://app.zonky.cz/loan/101210",
+      "name": "Refinancování půjček",
+      "story": "Dobrý den, jmenuji se Petr. Vše začalo před pěti lety, kdy jsem koupil rodinný domek určený k rekonstrukci. Sám jsem ho částečně zrekonstruoval, ale po seznámení s přítelkyní a její dcerou, začaly opravené místnosti být pro nás malé a stísněné. \n     Po svatbě jsme se rozhodli pro naše společné dítě a to už byl potřeba další pokoj a i zahrada, kde by si děti mohly hrát.A protože nejsem z těch, co by nechávaly věci na poslední chvíli, nabral jsem si půjčky, abych toho zrekonstruoval co nejvíc a měly jsme kde trávit volný čas. \n    Ale nyní i přesto, že splácím vše včas, nezbývají finance na to, aby jsme si vytvořily finanční rezervu pro nenadálé výdaje. Proto se obracím na Vás, investory a na Zonky, s prosbou o možnost refinancování mých stávajících a mnohdy i nevýhodných půjček. Předem Vám děkuji, Petr...",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/101210/photos/11129"
+         }
+      ],
+      "userId": 128718,
+      "nickName": "zonky128718",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 500000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-26T20:25:46.221+02:00",
+      "published": true,
+      "deadline": "2017-06-28T20:10:14.190+02:00",
+      "investmentsCount": 276,
+      "questionsCount": 2,
+      "region": "14",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103565,
+      "url": "https://app.zonky.cz/loan/103565",
+      "name": "Bezpečnejší jízda",
+      "story": "   Dobrý den, jmenuji se Nella a s Vaší pomocí bych si ráda pořídila opravdu své první auto. Vozítko, které jsem dostala abych se vyjezdila, (po maturitě a čerstvém řidičáku) po odžitých 19 letech velmi rychle a definitivně dosluhuje. Do zaměstnání dojíždím přes 20 km a bezpečnější auto by mne vozilo nejen za prací, ale i častěji za rodinou a přáteli, kam si teď díky mému plechovému stařečkovi už moc často netroufám. \n\nDíky rodině jsem mohla vystudovat střední školu ve velmi vzdáleném místě a i díky ní jsem hned po obdržení řidičského průkazu mohla začít jezdit v autě, které do té doby vozilo mou mamku. Ale jsem plně samostatný, pracující člověk, který už nechce rodinu finančně zatěžovat, když mi dala do života tolik, a proto se důvěrou a prosbou obracím na vás, vážení investoři. Předem moc děkuji za vaši pomoc. \n",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/103565/photos/11104"
+         }
+      ],
+      "userId": 131762,
+      "nickName": "Nelliel",
+      "termInMonths": 43,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 110000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-26T17:12:49.710+02:00",
+      "published": true,
+      "deadline": "2017-06-28T16:35:53.625+02:00",
+      "investmentsCount": 147,
+      "questionsCount": 1,
+      "region": "7",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 92082,
+      "url": "https://app.zonky.cz/loan/92082",
+      "name": "Auto-moto",
+      "story": "Dobrý den svůj příběh už jsem psal tak zkráceně, začal jsem žít vlastní život a chci ho žít na plno proto potrebuji auto aby tak mohlo být a já mohl více žít. Děkuji všem investorům a Zonky za možnost realizace.",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "1",
+            "url": "/loans/92082/photos/11090"
+         }
+      ],
+      "userId": 118354,
+      "nickName": "zonky118354",
+      "termInMonths": 44,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 300000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-26T12:57:17.296+02:00",
+      "published": true,
+      "deadline": "2017-06-28T12:54:48.675+02:00",
+      "investmentsCount": 402,
+      "questionsCount": 2,
+      "region": "7",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 103235,
+      "url": "https://app.zonky.cz/loan/103235",
+      "name": "Refinancování půjček",
+      "story": "Dobrý den,\n\n      rád bych přes Zonky refinancoval svůj závazek u banky, kde mám vyšší úrok než mi bylo nabídnuto na Zonky.\n\nVšem investorům předem moc děkuji a přeji hezký zbytek dne\n\n",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/103235/photos/11078"
+         }
+      ],
+      "userId": 131407,
+      "nickName": "zonky131407",
+      "termInMonths": 72,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 55000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-26T09:54:53.747+02:00",
+      "published": true,
+      "deadline": "2017-06-28T09:51:10.964+02:00",
+      "investmentsCount": 113,
+      "questionsCount": 1,
+      "region": "6",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102318,
+      "url": "https://app.zonky.cz/loan/102318",
+      "name": "Vysněná dovolená u moře",
+      "story": "Dobrý den, jmenuji se Gabriela. Půjčku bych chtěla využít na dovolenou s přítelem. Jsme spolu už nějaký rok a nikdy nebyla možnost letět na společnou dovolenou k moři z důvodu financí. Druhý důvod je, že společně musíme platit další různé splátky a nemůžeme si dovolit odcestovat. Bydlíme v menším bytě, kde je potřeba taky něco udělat a vložit x financí. Chtěli bychom na exotickou dovolenou, kde spolu strávíme nezapomenutelný čas, kde si odpočineme, kde si to užijeme a na chvíli zapomeneme na náročnou realitu. Mooc by jste nám všichni pomohli, kdyby jste se složili na naši půjčku, abychom se mohli podívat tam, kde bychom se za jiných okolností nepodívali. Snad Vás náš příběh zaujme a pomůžete nám.",
+      "purpose": "3",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/102318/photos/11068"
+         }
+      ],
+      "userId": 130340,
+      "nickName": "zonky130340",
+      "termInMonths": 66,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 50000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-24T14:32:34.657+02:00",
+      "published": true,
+      "deadline": "2017-06-26T13:33:00.106+02:00",
+      "investmentsCount": 89,
+      "questionsCount": 1,
+      "region": "14",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 80365,
+      "url": "https://app.zonky.cz/loan/80365",
+      "name": "Refinancování půjček",
+      "story": "Ahoj ,rád bych refinancoval pujčku na auto,",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/80365/photos/11057"
+         }
+      ],
+      "userId": 103987,
+      "nickName": "zonky103987",
+      "termInMonths": 54,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 300000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-23T17:36:13.421+02:00",
+      "published": true,
+      "deadline": "2017-06-25T16:38:15.811+02:00",
+      "investmentsCount": 442,
+      "questionsCount": 1,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102864,
+      "url": "https://app.zonky.cz/loan/102864",
+      "name": "Refinancování půjček",
+      "story": "Ahoj, chtěla bych si refinancovat tři půjčky, které mám zde na Zonky. Tyto půjčky splácím včas a řádně. V současné době jsem těhotná a za par mesicu nastoupim na rodicovskou dovolenou. Protoze mi klesne i prjem penez, chtela bych nizsi splatku. Dekuji,  pokud mi tuto možnost dáte. ",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/102864/photos/11053"
+         }
+      ],
+      "userId": 130997,
+      "nickName": "zonky130997",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 160000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-23T16:34:53.765+02:00",
+      "published": true,
+      "deadline": "2017-06-25T16:29:33.798+02:00",
+      "investmentsCount": 176,
+      "questionsCount": 2,
+      "region": "6",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 101299,
+      "url": "https://app.zonky.cz/loan/101299",
+      "name": "Zdraví",
+      "story": "Dobrý den.\n\nRád bych si půjčil peníze na operaci očí. Není to životně důležité, ale brýle mě hodně omezují při práci a sportovních aktivitách.\n",
+      "purpose": "5",
+      "photos": [
+         {
+            "name": "5",
+            "url": "/loans/101299/photos/11051"
+         }
+      ],
+      "userId": 128814,
+      "nickName": "zonky128814",
+      "termInMonths": 22,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 40000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-23T16:23:59.118+02:00",
+      "published": true,
+      "deadline": "2017-06-25T16:18:49.740+02:00",
+      "investmentsCount": 63,
+      "questionsCount": 0,
+      "region": "9",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 89046,
+      "url": "https://app.zonky.cz/loan/89046",
+      "name": "Refinancování půjček",
+      "story": "Potrebovala bych refinancovat nevhodnou pujcku. Dekuji vsem kteri mi pomuzou.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/89046/photos/11050"
+         }
+      ],
+      "userId": 114238,
+      "nickName": "zonky114238",
+      "termInMonths": 22,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 80000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-23T16:16:03.200+02:00",
+      "published": true,
+      "deadline": "2017-06-25T16:14:37.485+02:00",
+      "investmentsCount": 124,
+      "questionsCount": 0,
+      "region": "13",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102881,
+      "url": "https://app.zonky.cz/loan/102881",
+      "name": "Nová střecha a ústřední topení",
+      "story": "Dobrý den, dostal jsem velký rodinný dům který potřebuje opravit střechu a  udělat nové vytápění v celém domě ( původně jen kaminka v jedné místnosti). Případným investorům moc děkuji za důvěru. Honza",
+      "purpose": "7",
+      "photos": [
+
+      ],
+      "userId": 131015,
+      "nickName": "zonky131015",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 200000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-23T16:03:35.544+02:00",
+      "published": true,
+      "deadline": "2017-06-25T15:55:28.280+02:00",
+      "investmentsCount": 286,
+      "questionsCount": 1,
+      "region": "7",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102466,
+      "url": "https://app.zonky.cz/loan/102466",
+      "name": "Výměna miláčka",
+      "story": "Peníze použijí na koupi nového auta,to staré se už bohužel rozpadlo.",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/102466/photos/11047"
+         }
+      ],
+      "userId": 130522,
+      "nickName": "Caddy",
+      "termInMonths": 48,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 100000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-23T15:12:30.208+02:00",
+      "published": true,
+      "deadline": "2017-06-25T15:06:16.347+02:00",
+      "investmentsCount": 167,
+      "questionsCount": 0,
+      "region": "6",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 97433,
+      "url": "https://app.zonky.cz/loan/97433",
+      "name": "Nový začátek s nádechem historie",
+      "story": "S přítelem jsme dostali jednoho dne možnost, zabydlet se v domečku po prarodičích. V té době jsme žili v podnájmu v malém bytě a platili celkem vysoký nájem. \n  Nadšení z této nabídky, nás samozřejmě neminulo, ale zároveň jsme se hroutili z té nekonečné práce. Nakonec jsme se rozhodli, pustit se do rekonstrukce a zachovat historického ducha domu z roku 1887. Cokoliv jen trochu šlo, jsme svépomocně renovovali.       \n  Bohužel, mnohdy je to mnohem dražší záležitost, než-li zařídit vše nové. I přesto nás to neodradilo, ale finále se nám tím pádem o mnoho měsíců protáhlo. Nechtěli jsme se původně zadlužovat úvěrem, ale postupem času jsme se, ještě hůř, zadlužili malými společnostmi s neuvěřitelně vysokými úroky.            \n  Momentálně se tedy nacházíme v situaci, kdy nám měsíčně odchází obrovské částky a nezbývá už na dokončení. Proto jsem oslovila Zonky, aby nám obyčejným lidem pomohli. Ohromně nás překvapil a potěšil jejich přístup, tedy i Vás všech. Částku, o kterou žádáme chceme pokrýt nevýhodné půjčky a zbytek financí použít na dokončení našeho společného snu. Doufáme, že alespoň některé z Vás, náš příběh osloví a pomůžete nám ho realizovat.",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "19458238_10207487840914062_1798746270_n.jpg",
+            "url": "/loans/97433/photos/11027"
+         }
+      ],
+      "userId": 124039,
+      "nickName": "zonky124039",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 300000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-23T11:45:05.336+02:00",
+      "published": true,
+      "deadline": "2017-06-25T10:59:27.109+02:00",
+      "investmentsCount": 356,
+      "questionsCount": 1,
+      "region": "11",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102357,
+      "url": "https://app.zonky.cz/loan/102357",
+      "name": "Vzdělání",
+      "story": "Rád bych získal úplné vysokoškolské vzdělání, které pak využiji v mém zaměstnání a pomůže mně tak ke kariérnímu růstu.",
+      "purpose": "2",
+      "photos": [
+         {
+            "name": "2",
+            "url": "/loans/102357/photos/11026"
+         }
+      ],
+      "userId": 130389,
+      "nickName": "zonky130389",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 50000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-23T11:14:27.051+02:00",
+      "published": true,
+      "deadline": "2017-06-25T11:11:19.837+02:00",
+      "investmentsCount": 86,
+      "questionsCount": 1,
+      "region": "11",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 101960,
+      "url": "https://app.zonky.cz/loan/101960",
+      "name": "Staré za novější",
+      "story": "Dobrý den. Pujčku chci využít k pořízení ojetého vozu abych mohl spolehlivě plnit své pracovní povinosti v rámci libereckého a částečně ústeckého kraje. Současný 15 let starý automobil spolehlivostí neoplývá:-)) Všem investorum srdečně děkuji:-))",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "1",
+            "url": "/loans/101960/photos/10999"
+         }
+      ],
+      "userId": 129722,
+      "nickName": "zonky129722",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 230000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-22T19:14:28.745+02:00",
+      "published": true,
+      "deadline": "2017-06-24T19:06:13.199+02:00",
+      "investmentsCount": 358,
+      "questionsCount": 1,
+      "region": "7",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 101408,
+      "url": "https://app.zonky.cz/loan/101408",
+      "name": "Refinancování půjček",
+      "story": "Dobrý den,\nNa Zonky jsem se obrátil o pomoc a chci si sloučit drahé pujčky abych platil méně.Děkuji všem co mi pomohou.Přeji hezký den.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/101408/photos/10979"
+         }
+      ],
+      "userId": 128934,
+      "nickName": "zonky128934",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 130000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-22T15:37:19.347+02:00",
+      "published": true,
+      "deadline": "2017-06-24T15:33:32.821+02:00",
+      "investmentsCount": 120,
+      "questionsCount": 2,
+      "region": "12",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 102275,
+      "url": "https://app.zonky.cz/loan/102275",
+      "name": "Refinancování půjček",
+      "story": "Vážení investoři\nMé jméno je Vlasta a chtěla bych refinacovat nevýhodný úvěr.Zonky mi nabízí menší úrok\n než jsem měla dosud a to 23,61 procent.\ntím pádem bych mela i menší splátku.Jsem důchodkyně .Děkuji Vám ",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/102275/photos/10973"
+         }
+      ],
+      "userId": 130290,
+      "nickName": "zonky130290",
+      "termInMonths": 78,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 160000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-22T15:04:26.044+02:00",
+      "published": true,
+      "deadline": "2017-06-24T14:46:51.061+02:00",
+      "investmentsCount": 81,
+      "questionsCount": 0,
+      "region": "6",
+      "mainIncomeType": "PENSION"
+   },
+   {
+      "id": 102004,
+      "url": "https://app.zonky.cz/loan/102004",
+      "name": "Nevýhodná půčka",
+      "story": "Dobrý den ,jmenuji se Soňa a chtěla bych refinancovat dosavadní nevýhodný úvěr v bance. Budu ráda za Vaši pomoc, abych mohla úvěr doplatit a zbytečně nepřeplácet. Všem Vám moc děkuji. Doufám, že mi Zonky pomůže.",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/102004/photos/10959"
+         }
+      ],
+      "userId": 129826,
+      "nickName": "zonky129826",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 460000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-22T10:03:44.582+02:00",
+      "published": true,
+      "deadline": "2017-06-24T09:41:10.805+02:00",
+      "investmentsCount": 570,
+      "questionsCount": 4,
+      "region": "1",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 99051,
+      "url": "https://app.zonky.cz/loan/99051",
+      "name": "Jiné",
+      "story": "Zdravim, Vsechni. Potreboval pujicit na refinansovai. Koupil jsem pred par lety nemovitost na ktere mi zalezelo. Nemnel moc na vyber. Tak pujicil. Ted bych rad snizil uroky. Budu vdecnyj vsem za pomoc. Aleks. ",
+      "purpose": "9",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/99051/photos/10952"
+         }
+      ],
+      "userId": 126185,
+      "nickName": "zonky126185",
+      "termInMonths": 48,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 200000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-21T22:02:09.401+02:00",
+      "published": true,
+      "deadline": "2017-06-23T21:47:07.193+02:00",
+      "investmentsCount": 343,
+      "questionsCount": 4,
+      "region": "1",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 94200,
+      "url": "https://app.zonky.cz/loan/94200",
+      "name": "Domácnost",
+      "story": "Dobrý den, rád bych si půjčil peníze na vybavení bytu, aby ke mě mohl můj malý syn jezdit alespoň na víkendy. Chybí mi bohužel spousta důležitých věcí a nábytku. Budu moc rád, když mi lidé prostřednictvím Zonky pomohou. :-) Předem děkuji Petr",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "7",
+            "url": "/loans/94200/photos/10950"
+         }
+      ],
+      "userId": 120604,
+      "nickName": "vybudovanidomova",
+      "termInMonths": 66,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 50000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-21T21:39:17.884+02:00",
+      "published": true,
+      "deadline": "2017-06-23T21:34:46.245+02:00",
+      "investmentsCount": 87,
+      "questionsCount": 1,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 100945,
+      "url": "https://app.zonky.cz/loan/100945",
+      "name": "Refinancování půjček",
+      "story": "Dobrý den, chtěl bych refinancovat půjčku kterou jsem si vzal na zakoupení auta jako náhradu za staré, které se porouchalo. Jelikož autem dojíždím do zaměstnání, byl jsem nucen jednat rychle a úrokovou sazbu jsem neřešil. Teď bych díky vám, rád tuto půjčku refinancoval a ušetřil tak nemalé peníze. Děkuji",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/100945/photos/10936"
+         }
+      ],
+      "userId": 128439,
+      "nickName": "zonky128439",
+      "termInMonths": 44,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 160000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-21T16:34:16.814+02:00",
+      "published": true,
+      "deadline": "2017-06-23T16:30:16.011+02:00",
+      "investmentsCount": 261,
+      "questionsCount": 0,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 101698,
+      "url": "https://app.zonky.cz/loan/101698",
+      "name": "Cestování",
+      "story": "Jmenuji se Míla.S manželkou žiji již 8 let a nikdy jsme nebyli na společné dovolené.Rád bych využil možnost půjčky od lidí a konečně si užil příjemných 14 dnů se svou rodinou v pronajaté chatičce na jihu Čech u Jinřichova Hradce.",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "7",
+            "url": "/loans/101698/photos/10924"
+         }
+      ],
+      "userId": 129238,
+      "nickName": "zonky129238",
+      "termInMonths": 48,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 40000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-21T14:05:12.731+02:00",
+      "published": true,
+      "deadline": "2017-06-23T14:00:02.191+02:00",
+      "investmentsCount": 73,
+      "questionsCount": 0,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 101841,
+      "url": "https://app.zonky.cz/loan/101841",
+      "name": "Být dj",
+      "story": "Rád bych si splnil sen...Být djem.",
+      "purpose": "4",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/101841/photos/10918"
+         }
+      ],
+      "userId": 129390,
+      "nickName": "zonky129390",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 40000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-21T13:03:27.529+02:00",
+      "published": true,
+      "deadline": "2017-06-23T13:01:14.505+02:00",
+      "investmentsCount": 69,
+      "questionsCount": 6,
+      "region": "9",
+      "mainIncomeType": "PENSION"
+   },
+   {
+      "id": 102117,
+      "url": "https://app.zonky.cz/loan/102117",
+      "name": "Rekonstrukce a refinancování",
+      "story": "Dobrý den,\npůvodně jsem na Zonky chtěl peníze na doplacení faktur za rekonstrukci. Na Zonky mi však nabídli i refinancování úvěru. Částka na půjčku se zvýšila, úrok se snížil. A navíc, tady jdou úroky lidem. \nDěkuji za pomoc, snad to jednoho dne budu moct oplatit i já Vám.",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/102117/photos/10914"
+         }
+      ],
+      "userId": 130050,
+      "nickName": "zonky130050",
+      "termInMonths": 41,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 110000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-21T11:50:04.312+02:00",
+      "published": true,
+      "deadline": "2017-06-23T11:44:13.283+02:00",
+      "investmentsCount": 213,
+      "questionsCount": 1,
+      "region": "13",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 93950,
+      "url": "https://app.zonky.cz/loan/93950",
+      "name": "Americký sen v podnikání s automobily",
+      "story": "Zhruba ve svých 8 letech jsem začal cítit, že ČR není země, kde bych chtěl strávit zbytek života – i přesto, že tam vlastním jeden z největších startup/tech magazínů a spoustu let jsem tam úspěšně podnikal v oblasti web designu. V 23 letech jsem tak začal naplno pracovat na přechodu do USA, kde jsem založil a postupně rozjel design a vývoj mobilních a webových aplikací ve vlastním studiu a zároveň k tomu získal dlouhodobé investorské vízum po investici vyšších desítek tisíc dolarů.\n\nSouběžně s tím se do stejného města dostala i část rodiny, sestřenice a její manžel, který více než 20 let řeší servis a performance aut. Vybudoval z ničeho projekt 1000koňového Golfu II, se kterým vyhrál většinu evropských sprintů, přesunul do USA celou firmu včetně brzdy (dynamometru) na auta – tady má rostoucí servis s množstvím zákazníků. Život jde ale dál, a tak jsme se rozhodli naše síly spojit a byznys rozšířit.\n\nAktuálně hledáme finanční injekci, která urychlí start nového projektu, založeného na koupi několika aut pro jejich servis, péči a půjčování dalším lidem prostřednictvím P2P služby Turo. Máme plán, víme co chceme pořídit, víme jaká bude návratnost a jaké s tím souvisí problémy – nechceme ale čekat, než se pro tento účel uvolní další finance – chceme začít hned!\n\nVýhody oproti konkurenci:\n– Minimalizované náklady na servis\n– Pokročilá diagnostika závad a GPS tracking aut na dálku\n– Možnost investice menších částek do více aut a jejich oprava = maximalizace potencionálních příjmů\n– Propojení s lokálním projektem na booking hotelů\n– Návratnost celé investice do jednoho vozu je zhruba 10-13 měsíců, poté možnost prodeje a nákupu auta s vyšším potenciálem příjmů\n\nProč půjčka v ČR?\nKreditní systém v USA je nastavený tak, že počítá jak s historicky bezproblémovým splácením, tak s délkou kreditní historie. V USA buduji takovou historii pouze něco málo přes půl roku a pro lendery z toho není možné nabídnout financování – a pokud ano, tak s úrokem 18%+.\n\nPokud budete ochotni, pustit se do toho s námi, nebudete litovat",
+      "purpose": "8",
+      "photos": [
+         {
+            "name": "car-illustration-pramod-kabadi.png",
+            "url": "/loans/93950/photos/10912"
+         }
+      ],
+      "userId": 120334,
+      "nickName": "vabe",
+      "termInMonths": 84,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": true,
+      "amount": 500000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-21T10:54:16.156+02:00",
+      "published": true,
+      "deadline": "2017-06-23T10:39:23.936+02:00",
+      "investmentsCount": 400,
+      "questionsCount": 10,
+      "region": "1",
+      "mainIncomeType": "ENTREPRENEUR"
+   },
+   {
+      "id": 100129,
+      "url": "https://app.zonky.cz/loan/100129",
+      "name": "Auto-moto",
+      "story": "Nákup ojého automobilu :-)",
+      "purpose": "1",
+      "photos": [
+         {
+            "name": "1",
+            "url": "/loans/100129/photos/10909"
+         }
+      ],
+      "userId": 127560,
+      "nickName": "zonky127560",
+      "termInMonths": 26,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 70000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-21T10:28:10.836+02:00",
+      "published": true,
+      "deadline": "2017-06-23T10:25:57.465+02:00",
+      "investmentsCount": 147,
+      "questionsCount": 0,
+      "region": "12",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 100725,
+      "url": "https://app.zonky.cz/loan/100725",
+      "name": "vysneny ridic taxi",
+      "story": "chci si po praci prividelavat jako ridic taxi , ale potrebuji k tomu auto .dekuji za vas cas .",
+      "purpose": "1",
+      "photos": [
+
+      ],
+      "userId": 128205,
+      "nickName": "zonky128205",
+      "termInMonths": 78,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 200000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-20T17:43:33.029+02:00",
+      "published": true,
+      "deadline": "2017-06-22T17:38:27.453+02:00",
+      "investmentsCount": 365,
+      "questionsCount": 7,
+      "region": "5",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 81422,
+      "url": "https://app.zonky.cz/loan/81422",
+      "name": "Refinancování půjček",
+      "story": "Dobrý den, jmenuji se Pavel, refinancováním půjček od ZONKY se mě výrazně sníží částka na splácení a budu moci jednodušeji splácet. Všem kteří jste mě věnovali čas a případně investici moc děkuji a přeji vše krásné.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/81422/photos/10897"
+         }
+      ],
+      "userId": 105082,
+      "nickName": "zonky105082",
+      "termInMonths": 54,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 250000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-20T16:24:39.884+02:00",
+      "published": true,
+      "deadline": "2017-06-22T16:18:35.174+02:00",
+      "investmentsCount": 414,
+      "questionsCount": 2,
+      "region": "6",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 99097,
+      "url": "https://app.zonky.cz/loan/99097",
+      "name": "Refinancování půjček",
+      "story": "Refinancování kontokorentního úvěru. Podnikala jsem ve finanční sféře, jen nemoc mě zastavila (krvácení do mozku), rozhodla jsem se zaměstnat abych měla stabilní příjem a tímto musím dát do pořádku i kontokorent, kde už nemohu vytvářet obrat, který jsem dělala. Už musím mít jistotu. Děkuji za pomoc",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/99097/photos/10889"
+         }
+      ],
+      "userId": 126241,
+      "nickName": "zonky126241",
+      "termInMonths": 72,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 55000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-20T16:01:28.844+02:00",
+      "published": true,
+      "deadline": "2017-06-22T15:53:01.763+02:00",
+      "investmentsCount": 99,
+      "questionsCount": 0,
+      "region": "3",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 100186,
+      "url": "https://app.zonky.cz/loan/100186",
+      "name": "KATAPULT",
+      "story": "Potrebuju novou televizi..Dekuju Zdenek",
+      "purpose": "4",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/100186/photos/10875"
+         }
+      ],
+      "userId": 127622,
+      "nickName": "zonky127622",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 25000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-20T11:29:47.978+02:00",
+      "published": true,
+      "deadline": "2017-06-22T11:23:17.168+02:00",
+      "investmentsCount": 59,
+      "questionsCount": 0,
+      "region": "2",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 98522,
+      "url": "https://app.zonky.cz/loan/98522",
+      "name": "Elektronika",
+      "story": "Dobrý den,\n\nrád bych si půjčil na nákup techniky díky které se mé podnikání může opět posunout o další kus vpřed. \n\nDěkuji,\n\nT.",
+      "purpose": "4",
+      "photos": [
+         {
+            "name": "4",
+            "url": "/loans/98522/photos/10793"
+         }
+      ],
+      "userId": 125603,
+      "nickName": "Fomak",
+      "termInMonths": 28,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 50000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-20T01:06:49.941+02:00",
+      "published": true,
+      "deadline": "2017-06-21T11:33:51.894+02:00",
+      "investmentsCount": 92,
+      "questionsCount": 1,
+      "region": "11",
+      "mainIncomeType": "SELF_EMPLOYMENT"
+   },
+   {
+      "id": 99999,
+      "url": "https://app.zonky.cz/loan/99999",
+      "name": "Refinancování půjček",
+      "story": "To když rodič se snaží pomoc dětem syn odešel od přítelkyně kde jsou dvě děti a  jedno postižné Kájík dostal 2x zápal mozkových blan a ten druhý ještě  bacilem salmonely syn se dal na drogy a krádeže  no a tak  to začalo kreditkou a půjčkou kterou jsem nakonec musela splácet .Tak bych se chtěla touto formou dostat na co nejmenší splácení. Předem děkuji.",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/99999/photos/10845"
+         }
+      ],
+      "userId": 127411,
+      "nickName": "zonky127411",
+      "termInMonths": 42,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 90000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-19T20:29:00.211+02:00",
+      "published": true,
+      "deadline": "2017-06-21T19:52:56.485+02:00",
+      "investmentsCount": 160,
+      "questionsCount": 1,
+      "region": "3",
+      "mainIncomeType": "PENSION"
+   },
+   {
+      "id": 100519,
+      "url": "https://app.zonky.cz/loan/100519",
+      "name": "Kompletní vybavení domácnosti",
+      "story": "Dobrý den,  rád bych půjčku využil na kompletní vybavení bytu, do kterého se s mou partnerkou a malou dcerkou stěhujeme. Děkuji moc všem dobrým lidem za pomoc, Mirek.\n",
+      "purpose": "7",
+      "photos": [
+         {
+            "name": "file.png",
+            "url": "/loans/100519/photos/10843"
+         }
+      ],
+      "userId": 127987,
+      "nickName": "zonky127987",
+      "termInMonths": 36,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 100000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-19T19:42:48.046+02:00",
+      "published": true,
+      "deadline": "2017-06-21T19:04:53.805+02:00",
+      "investmentsCount": 176,
+      "questionsCount": 0,
+      "region": "1",
+      "mainIncomeType": "EMPLOYMENT"
+   },
+   {
+      "id": 98950,
+      "url": "https://app.zonky.cz/loan/98950",
+      "name": "Refinancování půjček",
+      "story": "Dobrý den svou půjčku bych rád využil k refinancování svých stávajících úvěrů. Rád bych měl vše v jedné splátce, a věřím že mi s tím rádi pomůžete, abych měl zase nějakou tu korunku navíc. Předem děkuji všem investorům.  ",
+      "purpose": "6",
+      "photos": [
+         {
+            "name": "6",
+            "url": "/loans/98950/photos/10831"
+         }
+      ],
+      "userId": 126077,
+      "nickName": "zonky126077",
+      "termInMonths": 60,
+      "interestRate": 0.084900,
+      "rating": "AA",
+      "topped": null,
+      "amount": 95000.00,
+      "remainingInvestment": 0.00,
+      "investmentRate": 1.0,
+      "covered": true,
+      "datePublished": "2017-06-19T18:31:18.046+02:00",
+      "published": true,
+      "deadline": "2017-06-21T18:26:48.462+02:00",
+      "investmentsCount": 164,
+      "questionsCount": 1,
+      "region": "6",
+      "mainIncomeType": "PENSION"
+   }
+];
+
+export default response;
