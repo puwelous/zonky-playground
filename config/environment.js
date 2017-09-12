@@ -10,6 +10,7 @@ module.exports = function(environment) {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
         // e.g. 'with-controller': true
+        'ds-improved-ajax': true,
       },
       EXTEND_PROTOTYPES: {
         // Prevent Ember Data from overriding Date.parse.
@@ -20,6 +21,8 @@ module.exports = function(environment) {
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
+      host: 'https://private-718ad-zonky.apiary-proxy.com',
+      namespace: '',
     }
   };
 
@@ -45,6 +48,30 @@ module.exports = function(environment) {
   if (environment === 'production') {
 
   }
+
+  ENV.contentSecurityPolicy = {
+    'default-src': ["'none'"],
+    'script-src':  ["'self'"],
+    'font-src':    [
+      "'self'",
+      'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2',
+      'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff',
+      'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf',
+    ],
+    'connect-src': [
+      "'self'",
+      'https://private-718ad-zonky.apiary-proxy.com/loans/marketplace',
+    ],
+    'img-src':     ["'self'"],
+    'style-src':   [
+      "'self'",
+      "'unsafe-inline'",
+      'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
+      'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.5.1/css/bulma.min.css',
+    ],
+    'media-src':   ["'self'"]
+  }
+
 
   return ENV;
 };
