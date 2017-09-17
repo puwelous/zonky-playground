@@ -1,6 +1,6 @@
 /* jshint node: true */
 
-module.exports = function(environment) {
+module.exports = function (environment) {
   var ENV = {
     modulePrefix: 'zonky-playground',
     environment: environment,
@@ -23,7 +23,11 @@ module.exports = function(environment) {
       // when it is created
       host: 'https://private-718ad-zonky.apiary-proxy.com',
       namespace: '',
-    }
+    },
+
+    'ember-cli-mirage': {
+      enabled: false,
+    },
   };
 
   if (environment === 'development') {
@@ -51,8 +55,8 @@ module.exports = function(environment) {
 
   ENV.contentSecurityPolicy = {
     'default-src': ["'none'"],
-    'script-src':  ["'self'"],
-    'font-src':    [
+    'script-src': ["'self'"],
+    'font-src': [
       "'self'",
       'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2',
       'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff',
@@ -62,14 +66,14 @@ module.exports = function(environment) {
       "'self'",
       'https://private-718ad-zonky.apiary-proxy.com/loans/marketplace',
     ],
-    'img-src':     ["'self'"],
-    'style-src':   [
+    'img-src': ["'self'"],
+    'style-src': [
       "'self'",
       "'unsafe-inline'",
       'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
       'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.5.1/css/bulma.min.css',
     ],
-    'media-src':   ["'self'"]
+    'media-src': ["'self'"]
   }
 
 
